@@ -1,0 +1,23 @@
+body{
+    margin:80px;
+}
+input {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border:none;
+    margin-top:15px ;
+    margin-bottom: 15px;
+    border-radius:10px;
+}
+.input {
+    background-color:#b7dbd2;
+}
+input:focus {
+    background-color:#dbbd00;
+}
+
+#input {
+    
+    background-color:#6affa2;
+}
